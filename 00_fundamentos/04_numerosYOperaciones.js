@@ -35,5 +35,9 @@ resultado = Math.max(1,2,3,5,4,6,7,8,9);
 //aleatorio
 resultado = Math.random();
 
+resultado = (10 + 20) * 5;
 
-console.log(resultado);
+let puntaje = 10;
+
+
+console.log(puntaje);
